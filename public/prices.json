@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Basic Plan",
+        "price": 9.99,
+        "features": [
+            "5 GB storage",
+            "10 email accounts",
+            "24/7 support"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Pro Plan",
+        "price": 19.99,
+        "features": [
+            "20 GB storage",
+            "50 email accounts",
+            "24/7 support",
+            "E-commerce integration"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Premium Plan",
+        "price": 29.99,
+        "features": [
+            "50 GB storage",
+            "100 email accounts",
+            "24/7 support",
+            "E-commerce integration",
+            "Advanced analytics"
+        ]
+    }
+]
